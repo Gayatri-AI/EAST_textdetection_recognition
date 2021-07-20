@@ -1,5 +1,5 @@
 # EAST_textdetection_textrecognition
-Text detection and recognition in images as well as real time video using [EAST algorithm](https://arxiv.org/abs/1704.03155)
+Text detection and recognition in images as well as in real time video using [EAST algorithm](https://arxiv.org/abs/1704.03155)
 
 The purpose of this project is to recognize text from natural images using OpenCV and Tesseract. Optical character recognition is used to make editable or even digitised text from scanned images and photographs. In this project we have tried to implement these techniques on natural images.We have also tried to extend these scene text extraction techniques to real time videos.This made our code more versatile and resourceful.
 
